@@ -32,16 +32,16 @@
   --oui-color-fill: 36 32 47; /* unchanged */
   --oui-color-fill-active: 40 46 58;
 
-  --oui-color-base-1: 64 57 83; /* darker */
-  --oui-color-base-2: 56 50 73;
-  --oui-color-base-3: 48 44 63;
-  --oui-color-base-4: 42 38 56;
-  --oui-color-base-5: 36 32 47;
-  --oui-color-base-6: 30 26 40;
-  --oui-color-base-7: 60 52 90; /* lighter for scrollbar */
-  --oui-color-base-8: 24 22 34;
-  --oui-color-base-9: 18 16 26;
-  --oui-color-base-10: 12 10 18;
+  --oui-color-base-1: 255 255 255; /* darker */
+  --oui-color-base-2: 246 163 19;
+  --oui-color-base-3: 63 58 44;
+  --oui-color-base-4: 58 50 39;
+  --oui-color-base-5: 46 42 31;
+  --oui-color-base-6: 40 36 26;
+  --oui-color-base-7: 91 86 52; /* lighter for scrollbar */
+  --oui-color-base-8: 34 31 22;
+  --oui-color-base-9: 26 22 15;
+  --oui-color-base-10: 16 13 9;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
